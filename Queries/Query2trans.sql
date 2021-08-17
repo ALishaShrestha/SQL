@@ -1,0 +1,1 @@
+ALTER TABLE Contact ADD Contact_details VARCHAR(30) DEFAULT '123456789';
